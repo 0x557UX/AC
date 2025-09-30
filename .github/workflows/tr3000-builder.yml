@@ -1,4 +1,4 @@
-name: OpenWrt Builder
+name: tr3000-112M-builder
 
 on:
   repository_dispatch:
