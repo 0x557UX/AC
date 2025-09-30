@@ -19,7 +19,7 @@ env:
   UPLOAD_BIN_DIR: false
   UPLOAD_FIRMWARE: true
   UPLOAD_RELEASE: true
-  TZ: Asia/HongKong
+  TZ: Asia/Singapore
 
 jobs:
   build:
